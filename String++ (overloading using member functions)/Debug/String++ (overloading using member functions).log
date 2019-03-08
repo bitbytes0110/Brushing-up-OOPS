@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  MyString.cpp
+c:\users\anand\source\repos\happycoding\string++ (overloading using member functions)\mystring.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\anand\source\repos\happycoding\string++ (overloading using member functions)\mystring.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  String++ (overloading using member functions).cpp
+c:\users\anand\source\repos\happycoding\string++ (overloading using member functions)\string++ (overloading using member functions).cpp(4): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\anand\source\repos\happycoding\string++ (overloading using member functions)\string++ (overloading using member functions).cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\users\anand\source\repos\happycoding\string++ (overloading using member functions)\string++ (overloading using member functions).cpp(5): note: use of precompiled header
+  Generating Code...
+  String++ (overloading using member functions).vcxproj -> C:\Users\Anand\source\repos\HappyCoding\Debug\String++ (overloading using member functions).exe
