@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using Templates", "Using Te
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Formating data using Manipulators", "Formating data using Manipulators\Formating data using Manipulators.vcxproj", "{A981E9E7-6ECB-47C8-BC96-C15EBFE7B6D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeofTest", "sizeofTest\sizeofTest.vcxproj", "{79A48B38-CED8-43B8-9E40-D90DE9948EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{A981E9E7-6ECB-47C8-BC96-C15EBFE7B6D8}.Release|x64.Build.0 = Release|x64
 		{A981E9E7-6ECB-47C8-BC96-C15EBFE7B6D8}.Release|x86.ActiveCfg = Release|Win32
 		{A981E9E7-6ECB-47C8-BC96-C15EBFE7B6D8}.Release|x86.Build.0 = Release|Win32
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Debug|x64.ActiveCfg = Debug|x64
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Debug|x64.Build.0 = Debug|x64
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Debug|x86.Build.0 = Debug|Win32
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Release|x64.ActiveCfg = Release|x64
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Release|x64.Build.0 = Release|x64
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Release|x86.ActiveCfg = Release|Win32
+		{79A48B38-CED8-43B8-9E40-D90DE9948EEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
